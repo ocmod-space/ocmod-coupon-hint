@@ -20,7 +20,7 @@ This module does not work and is not supported for stores using the following do
 
 ## Live demo
 * [Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/module/coupon_hint)
-* [Storefront](https://demo.ocmod.space/a/)
+* [Storefront](https://demo.ocmod.space/a/htc-touch-hd)
 
 ## License
 [End-User License Agreement](../EULA.en.txt)
