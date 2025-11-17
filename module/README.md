@@ -26,9 +26,7 @@ This module does not work and is not supported for stores using the following do
 [End-User License Agreement](../EULA.en.txt)
 
 ## Download
-[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=00000)
+[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=47885)
 
 ## Related extensions
-* [Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) - allows customers to join other groups and get access to special prices or discounts available to this group.
-* [Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) - allows to specify default customer group to assign it for all new registered customers.
-* [Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) - allows to display customer quantity in groups.
+[Coupon After Tax](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39859) - allows to apply coupon discounts to the cart total amount after tax.
